@@ -1,0 +1,57 @@
+{
+  "name": "Theo",
+  "pronouns": "He/Him",
+  "race": "Hume",
+  "age": 32,
+  "gender": "Male",
+  "homeland": "Cornelia",
+  "occupation_or_role": "Town Guard",
+  "social_class": "Commoner",
+  "appearance": {
+    "height": "6'",
+    "build": "Muscular",
+    "hair": "short brown",
+    "eyes": "Blue",
+    "notable_features": ["Jagged scar across left eyebrow", "Calloused hands from constant training"]
+  },
+  "personality": {
+    "traits": ["Loyal to a fault", "Disciplined", "Tends to speak bluntly"],
+    "ideals": ["Duty to protect the innocent", "A man is only as good as his word"],
+    "flaws": ["Struggles to forgive himself for past mistakes", "Slow to trust outsiders"],
+    "bond": "He once saved the life of a young princess and now feels personally responsible for the royal family's safety.",
+    "motivation": "To prove he’s more than just a provincial guard and become a true knight of Cornelia"
+  },
+  "background": {
+    "origin_story": "Theo was born to a blacksmith and a healer in Cornelia. After his older brother died during a monster raid, Theo swore to become strong enough to protect others.",
+    "family": ["Father: Bram (blacksmith)", "Mother: Ilyra (healer)", "Deceased Brother: Daran"],
+    "notable_events": ["Fought off a wyvern during a caravan raid", "Promoted to Captain of the Night Watch after thwarting a smuggling ring"],
+    "current_goal": "Earn recognition from the Crown to be knighted"
+  },
+  "likes": ["Sunrises over the castle ramparts", "Sparring matches", "Simple, hearty meals"],
+  "dislikes": ["Arrogant nobles", "Wasted resources", "Cowards who abandon comrades"],
+  "fears": ["Failing those he’s sworn to protect", "Being forgotten if he dies in obscurity"],
+  "hobbies": ["Weapon Smithing"],
+  "religion_or_beliefs": "Worships the Light—believes in order, virtue, and sacrifice",
+  "languages": ["Common"],
+  "relationships": {
+    "allies": ["Commander Halvar", "Priestess Elenra", "Young page named Cid"],
+    "rivals": ["Ser Dorian, a pompous knight who mocks Theo's commoner roots"],
+    "romantic_interest": "Cassia, a traveling dancer who visits Cornelia every spring"
+  },
+  "inventory": [
+    "Steel buckler with Cornelia's crest, forged by his father",
+    "Worn leather-bound journal",
+    "Silver pendant from his mother"
+  ],
+  "pets_or_companions": [],
+  "secrets": ["He let a fugitive go once—an exiled mage who claimed the royal court was hiding something dark"],
+  "quotes": [
+    "If I die with my boots on, let it be standing in the way of harm.",
+    "Steel breaks, flesh bleeds—but duty doesn't bend."
+  ],
+  "theme_music": "Epic orchestral march with somber undertones (think Nobuo Uematsu meets Bear McCreary)",
+  "rpg_details": {
+    "class": "Warrior",
+    "jobs": ["Fighter", "Dynamo", "Paladin"]
+  }
+}

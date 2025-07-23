@@ -1,0 +1,108 @@
+{
+  "name": "Merp",
+  "pronouns": "He/Him",
+  "race": "Dwarf",
+  "age": 78,
+  "gender": "Male",
+  "homeland": "Mt.Duegar",
+  "occupation_or_role": "Monster Scholar",
+  "social_class": "Commoner",
+  "appearance": {
+    "height": "4'5\"",
+    "build": "Stout and broad-shouldered",
+    "hair": "Red",
+    "eyes": "Yellow",
+    "notable_features": [
+      "Spectacles with cracked left lens",
+      "Burn scar in the shape of a claw on his forearm",
+      "Wild, untamed beard tied with bone beads"
+    ]
+  },
+  "personality": {
+    "traits": [
+      "Excitable when discussing obscure lore",
+      "Unapologetically blunt",
+      "Endearingly awkward in social settings"
+    ],
+    "ideals": [
+      "Knowledge should be shared, even when dangerous",
+      "Every creature has a role—even the monstrous"
+    ],
+    "flaws": [
+      "Tends to monologue under pressure",
+      "Lacks common sense in practical combat situations"
+    ],
+    "bond": "His old mentor was devoured by a mimic while protecting Merp's first field notes—he now wears the mentor’s rune-etched belt at all times.",
+    "motivation": "To compile the first truly comprehensive Field Bestiary of World A and clear his mentor’s name of academic fraud"
+  },
+  "background": {
+    "origin_story": "Born to stonecutters in Mt. Duegar, Merp never had the patience for masonry. Fascinated by cave-dwelling beasts, he began recording monster behavior on the backs of mining ledgers. After being dismissed as eccentric, he left home and studied under the famed (but disgraced) monsterologist Thandor Bristlehide.",
+    "family": [
+      "Father: Jorik (retired mason)",
+      "Mother: Mira (stoneweaver)",
+      "Older Sister: Hilda (councilwoman of Mt. Duegar)"
+    ],
+    "notable_events": [
+      "Tricked a chimera into falling off a cliff using polished mirrors",
+      "Discovered a previously undocumented parasitic slime inside a sand wyrm’s skull",
+      "Accidentally healed a goblin warlord who then declared Merp a 'tribe cousin'"
+    ],
+    "current_goal": "Track down a sentient ooze species rumored to mimic humanoid thought"
+  },
+  "likes": [
+    "Fungus-based stews",
+    "Monster tracks in fresh snow",
+    "Old maps with marginalia"
+  ],
+  "dislikes": [
+    "People who say 'it’s just a monster'",
+    "Sticky surfaces",
+    "Academic gatekeeping"
+  ],
+  "fears": [
+    "Being devoured whole",
+    "Losing his research to fire or theft",
+    "Fame ruining his work ethic"
+  ],
+  "hobbies": [
+    "Taxonomic sketching",
+    "Singing dwarven lullabies to confused beasts",
+    "Rune-carving onto field supplies"
+  ],
+  "religion_or_beliefs": "Follows the Stonemother, a dwarven earth-goddess of knowledge, protection, and deep patience. Prays before major expeditions by burying a stone with a carved rune.",
+  "languages": ["Common", "Dwarven"],
+  "relationships": {
+    "allies": [
+      "Greel the Hobgoblin herbalist (trades monster toxins)",
+      "Sister Fela – a cleric who heals Merp more often than she'd like"
+    ],
+    "rivals": [
+      "Professor Belvast Runehelm – former classmate who stole Merp’s ooze theory",
+      "Any large bureaucracy requiring forms"
+    ],
+    "romantic_interest": "Mild, awkward crush on a cyclopean archivist named Vira who speaks only in hand-signs"
+  },
+  "inventory": [
+    "Monster-etched bestiary journal",
+    "Rune-imbued medkit made from chitin",
+    "Antivenom necklace (chews a bead when poisoned)",
+    "Reinforced satchel with extra-planar storage compartment"
+  ],
+  "pets_or_companions": [
+    "A domesticated cave mole named Snortle who alerts him to vibrations"
+  ],
+  "secrets": [
+    "Once disguised himself as a kobold to infiltrate a dragon cult—and kind of liked it",
+    "His real thesis was ghostwritten by a banshee in exchange for a memory crystal"
+  ],
+  "quotes": [
+    "Now hold still—I just need to compare your bite radius to a barghest.",
+    "I may be screaming, but I am learning!",
+    "Ooh, that mucus coloration is *not* in the literature!"
+  ],
+  "theme_music": "Chaotic woodwind and percussion mix—playful, scholarly, slightly off-kilter (think Danny Elfman meets Baldur's Gate tavern ambience)",
+  "rpg_details": {
+    "class": "Adept",
+    "jobs": ["White Mage", "Medic", "Rune Knight"]
+  }
+}

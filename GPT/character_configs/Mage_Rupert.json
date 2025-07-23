@@ -1,0 +1,106 @@
+{
+  "name": "Rupert",
+  "pronouns": "He/Him",
+  "race": "Hume",
+  "age": 39,
+  "gender": "Male",
+  "homeland": "Onrac",
+  "occupation_or_role": "Magical Scholar",
+  "social_class": "Commoner",
+  "appearance": {
+    "height": "5'11\"",
+    "build": "Lean and wiry",
+    "hair": "Black Long",
+    "eyes": "Brown",
+    "notable_features": [
+      "Arcane burn scar across left forearm",
+      "Faint blue runic tattoos around both wrists",
+      "Wears enchanted reading glasses perched halfway down his nose"
+    ]
+  },
+  "personality": {
+    "traits": [
+      "Fiercely curious, even to a fault",
+      "Quietly confident in his own knowledge",
+      "Occasionally socially oblivious"
+    ],
+    "ideals": [
+      "Magic is the key to understanding reality",
+      "Knowledge must be preserved and passed on"
+    ],
+    "flaws": [
+      "Has trouble letting go of outdated magical theories",
+      "Tends to underestimate physical danger when absorbed in study"
+    ],
+    "bond": "His first mentor vanished in the Flooded Library of Onrac—Rupert carries her compass and seeks her fate.",
+    "motivation": "To uncover a unified magical theory that bridges arcane and martial disciplines without loss of fidelity"
+  },
+  "background": {
+    "origin_story": "Born to a humble fisherwoman and a scribe, Rupert grew up reading soaked scrolls and broken spellbooks salvaged from ruins beneath the sea. Obsessed with both swordplay and sorcery, he taught himself to weave enchantments into blade strokes, though many traditionalists mocked him for it.",
+    "family": [
+      "Mother: Yelna, a retired fisher and amateur weather witch",
+      "Father: Toman, deceased, former city records keeper",
+      "Older Sister: Maera, a coral-singer in Onrac’s aquatic temple"
+    ],
+    "notable_events": [
+      "Survived the collapse of the Arcane Spire in Onrac",
+      "Dueled a corrupted paladin using nothing but a burning sword of his own making",
+      "Published a controversial theory linking music and magic matrices"
+    ],
+    "current_goal": "Find the ruins of Pre-Onrac civilization and prove they used spellblades as conduits for divine and arcane convergence"
+  },
+  "likes": [
+    "Rainy afternoons in forgotten libraries",
+    "Sword forms named after constellations",
+    "The smell of ozone after lightning magic"
+  ],
+  "dislikes": [
+    "Pure theorists with no field experience",
+    "Being interrupted mid-thought",
+    "Rats—fears they chew on spellbooks"
+  ],
+  "fears": [
+    "Drowning in a collapsed ruin",
+    "Forgetting important knowledge at the wrong moment",
+    "Magic fading from the world"
+  ],
+  "hobbies": [
+    "Practicing swordplay using mage-hand projections",
+    "Annotating and illuminating ancient spellbooks",
+    "Brewing restorative teas with minor magical effects"
+  ],
+  "religion_or_beliefs": "Respectful agnostic—believes in the existence of gods but sees them as flawed entities shaped by magical laws yet to be fully understood",
+  "languages": ["Common"],
+  "relationships": {
+    "allies": [
+      "Kessa, a sea-elf diviner who helps him read tidal prophecy glyphs",
+      "Garran of the Ash Wand, an old war-mage who tutors him in combat casting"
+    ],
+    "rivals": [
+      "Professor Jorund Veska – a traditionalist who believes Rupert's methods are heresy",
+      "An unnamed agent of the Red Order who believes Rupert stole forbidden knowledge"
+    ],
+    "romantic_interest": "A mysterious masked archivist in the Underlibrary who only appears during lunar eclipses"
+  },
+  "inventory": [
+    "Whip",
+    "Padded Armor",
+    "Notebook with multi-color auto-inking quill",
+    "Portable ward stone that alerts when magic is nearby"
+  ],
+  "pets_or_companions": [],
+  "secrets": [
+    "He accidentally caused a magical surge that warped part of Onrac’s outer ward—and never admitted it",
+    "Rupert once found and read a banned tome—he still dreams in its language sometimes"
+  ],
+  "quotes": [
+    "A blade’s edge is only as sharp as the spell behind it.",
+    "Theory is the map; blood is the ink we use to draw it correctly.",
+    "If I ever sound certain, it means I’m missing something."
+  ],
+  "theme_music": "A blend of sweeping orchestral strings, intermittent thunderclaps, and precise harpsichord keys—equal parts elegance and raw arcane power",
+  "rpg_details": {
+    "class": "Mage",
+    "jobs": ["Red Mage", "Ravager", "Magic Knight"]
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "A":{
+        "quality":"excellent",
+        "berthing_cost":1000,
+        "fuel_type":"refined",
+        "facilities":["shipyard(all)", "repair"],
+        "bases":{
+            "naval":8,
+            "scout":10,
+            "research":8,
+            "tas":0
+        }
+    },
+    "B":{
+        "quality":"good",
+        "berthing_cost":500,
+        "fuel_type":"refined",
+        "facilities":["shipyard(spacecraft)", "repair"],
+        "bases":{
+            "naval":8,
+            "scout":8,
+            "research":10,
+            "tas":0
+        }
+    },
+    "C":{
+        "quality":"routine",
+        "berthing_cost":100,
+        "fuel_type":"unrefined",
+        "facilities":["shipyard(small craft)", "repair"],
+        "bases":{
+            "scout":8,
+            "research":10,
+            "tas":10
+        }
+    },
+    "D":{
+        "quality":"poor",
+        "berthing_cost":10,
+        "fuel_type":"unrefined",
+        "facilities":["limited repair"],
+        "bases":{
+            "scout":7
+        }
+    },
+    "E":{
+        "quality":"frontier",
+        "berthing_cost":0,
+        "fuel_type":"none",
+        "facilities":[],
+        "bases":{}
+    },
+    "X":{
+        "quality":"no starport",
+        "berthing_cost":0,
+        "fuel_type":"none",
+        "facilities":[],
+        "bases":{}
+    }
+}

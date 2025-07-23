@@ -1,0 +1,78 @@
+{
+  "name": "Zen (Not real name)",
+  "pronouns": "She/Her",
+  "race": "Elezen (Elf)",
+  "age": 127,
+  "gender": "Female",
+  "homeland": "Elfheim",
+  "occupation_or_role": "Scoundrel",
+  "social_class": "Vagabond (Secretly Nobility)",
+  "appearance": {
+    "height": "5'10\"",
+    "build": "Slender and agile",
+    "hair": "Long Blonde",
+    "eyes": "Green",
+    "notable_features": [
+      "Elaborate ear piercings with runic etchings",
+      "Faint crescent-shaped birthmark behind her left ear"
+    ]
+  },
+  "personality": {
+    "traits": ["Witty and sarcastic", "Calculating and alert", "Soft-hearted but hides it well"],
+    "ideals": ["Freedom over duty", "Loyalty to family above all else"],
+    "flaws": ["Compulsively lies to protect her identity", "Reckless when someone mentions her brother"],
+    "bond": "She carries her brother’s signet ring hidden beneath her cloak, a constant reminder of her mission.",
+    "motivation": "To find the mage who cursed her brother and discover the truth behind the betrayal of the royal house"
+  },
+  "background": {
+    "origin_story": "Born the youngest of the royal siblings in Elfheim, Zen vanished after her brother—heir to the throne—was struck by an enchanted sleep during a court coup. Presumed dead, she cast off her name and identity, becoming a ghost in the criminal underworld, gathering secrets and blades alike.",
+    "family": [
+      "Prince Alraen (older brother, enchanted slumber)",
+      "Queen Elaria (deceased mother)",
+      "Unnamed noble father (fate unknown)"
+    ],
+    "notable_events": [
+      "Stole a sacred relic from the Cathedral of Light and lived",
+      "Escaped capture by the Silent Blades three times",
+      "Discovered hidden messages encoded in the palace tapestry"
+    ],
+    "current_goal": "Find a way to awaken her brother, the elf prince, from his enchanted sleep"
+  },
+  "likes": ["Moonlit rooftops", "Card games", "Spiced wine"],
+  "dislikes": ["Formal etiquette", "Arrogant nobles", "Magical contracts"],
+  "fears": ["Being forced to reclaim her title", "Losing her brother forever"],
+  "hobbies": ["Lockpicking competitions", "Poetry recitation (under aliases)", "Eavesdropping in taverns"],
+  "religion_or_beliefs": "Publicly irreverent, privately whispers old elven prayers to the god of hidden truths",
+  "languages": ["Common", "Elven"],
+  "relationships": {
+    "allies": [
+      "Kael the Fence – smuggler with a soft spot for Zen",
+      "Rissa of the Lantern – informant and sometimes rival"
+    ],
+    "rivals": [
+      "Lady Virelle – noble enchantress who suspects Zen’s identity",
+      "‘The Listener’ – a bounty hunter with a vendetta"
+    ],
+    "romantic_interest": "A charming street performer named Jarel who unknowingly carries a fragment of the prince's curse"
+  },
+  "inventory": [
+    "A simple Knife",
+    "Lockpick set in a hollowed-out locket",
+    "A torn page from her brother’s enchanted journal",
+    "Studded Leather Armor"
+  ],
+  "pets_or_companions": [],
+  "secrets": [
+    "Her real name is Princess Zenyra of House Ithalara",
+    "She was partially responsible for her brother’s condition by trusting the wrong court mage"
+  ],
+  "quotes": [
+    "Truth’s just a blade you keep hidden until it's time to cut.",
+    "I’m nobody. Which is why everyone should be scared of me."
+  ],
+  "theme_music": "Haunting flute melody layered over a dark string rhythm—mysterious, agile, mournful",
+  "rpg_details": {
+    "class": "Expert",
+    "jobs": ["Thief", "Sniper", "Ninja"]
+  }
+}
