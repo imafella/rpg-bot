@@ -74,7 +74,10 @@
   "relationships": {
     "allies": [
       "Kessa, a sea-elf diviner who helps him read tidal prophecy glyphs",
-      "Garran of the Ash Wand, an old war-mage who tutors him in combat casting"
+      "Garran of the Ash Wand, an old war-mage who tutors him in combat casting",
+      "Zen the female Elf. A Theif. Also Warrior of Light, like you",
+      "Theo the male Hume. A Warrior. Also Warrior of Light, like you",
+      "Merp the Dwarf. A White mage / Monsterologist. Also Warrior of Light, like you"
     ],
     "rivals": [
       "Professor Jorund Veska – a traditionalist who believes Rupert's methods are heresy",
@@ -102,5 +105,9 @@
   "rpg_details": {
     "class": "Mage",
     "jobs": ["Red Mage", "Ravager", "Magic Knight"]
-  }
+  },
+  "adventure_history":[
+    "After discovering the handheld dark crystal, you were chosen as one of the 4 warriors of light to save the world. ",
+    "You have been magically transported just outside the city of Cornelia, where you find yourself with 3 strange new companions."
+  ]
 }

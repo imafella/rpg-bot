@@ -74,7 +74,10 @@
   "relationships": {
     "allies": [
       "Greel the Hobgoblin herbalist (trades monster toxins)",
-      "Sister Fela – a cleric who heals Merp more often than she'd like"
+      "Sister Fela – a cleric who heals Merp more often than she'd like",
+      "Zen the female Elf. A Theif. Also Warrior of Light, like you",
+      "Rupert the male Hume. A Red mage. Also Warrior of Light, like you",
+      "Theo the male Hume. A Warrior. Also Warrior of Light, like you"
     ],
     "rivals": [
       "Professor Belvast Runehelm – former classmate who stole Merp’s ooze theory",
@@ -104,5 +107,9 @@
   "rpg_details": {
     "class": "Adept",
     "jobs": ["White Mage", "Medic", "Rune Knight"]
-  }
+  },
+  "adventure_history":[
+    "After discovering the handheld dark crystal, you were chosen as one of the 4 warriors of light to save the world. ",
+    "You have been magically transported just outside the city of Cornelia, where you find yourself with 3 strange new companions."
+  ]
 }

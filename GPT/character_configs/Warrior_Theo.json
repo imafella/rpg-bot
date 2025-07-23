@@ -34,7 +34,10 @@
   "religion_or_beliefs": "Worships the Light—believes in order, virtue, and sacrifice",
   "languages": ["Common"],
   "relationships": {
-    "allies": ["Commander Halvar", "Priestess Elenra", "Young page named Cid"],
+    "allies": ["Commander Halvar", "Priestess Elenra", "Young page named Cid",
+      "Zen the female Elf. A Theif. Also Warrior of Light, like you",
+      "Rupert the male Hume. A Red mage. Also Warrior of Light, like you",
+      "Merp the Dwarf. A White mage / Monsterologist. Also Warrior of Light, like you"],
     "rivals": ["Ser Dorian, a pompous knight who mocks Theo's commoner roots"],
     "romantic_interest": "Cassia, a traveling dancer who visits Cornelia every spring"
   },
@@ -53,5 +56,9 @@
   "rpg_details": {
     "class": "Warrior",
     "jobs": ["Fighter", "Dynamo", "Paladin"]
-  }
+  },
+  "adventure_history":[
+    "After discovering the handheld dark crystal, you were chosen as one of the 4 warriors of light to save the world. ",
+    "You have been magically transported just outside the city of Cornelia, where you find yourself with 3 strange new companions."
+  ]
 }
